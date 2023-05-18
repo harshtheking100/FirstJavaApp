@@ -1,6 +1,6 @@
 class Calculator{
 	private int no1, no2;
-	
+	//latest changes
 	public void addition(int no1, int no2){
 		this.no1 = no1;
 		this.no2 = no2;
